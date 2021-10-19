@@ -1,0 +1,8 @@
+logs/
+*.txt
+code.c
+loop.c "deleted"
+loop2.c 
+*.logs
+bin/
+
